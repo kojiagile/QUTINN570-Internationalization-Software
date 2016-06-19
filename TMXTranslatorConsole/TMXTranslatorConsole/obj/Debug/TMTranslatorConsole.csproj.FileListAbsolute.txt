@@ -1,0 +1,9 @@
+C:\Users\koji\Desktop\学校\授業\INN570 Internationalization Software\Assingment2\TMTranslatorConsole\TMTranslatorConsole\bin\Debug\TMTranslatorConsole.exe.config
+C:\Users\koji\Desktop\学校\授業\INN570 Internationalization Software\Assingment2\TMTranslatorConsole\TMTranslatorConsole\bin\Debug\TMTranslatorConsole.exe
+C:\Users\koji\Desktop\学校\授業\INN570 Internationalization Software\Assingment2\TMTranslatorConsole\TMTranslatorConsole\bin\Debug\TMTranslatorConsole.pdb
+C:\Users\koji\Desktop\学校\授業\INN570 Internationalization Software\Assingment2\TMTranslatorConsole\TMTranslatorConsole\obj\Debug\TMTranslatorConsole.exe
+C:\Users\koji\Desktop\学校\授業\INN570 Internationalization Software\Assingment2\TMTranslatorConsole\TMTranslatorConsole\obj\Debug\TMTranslatorConsole.pdb
+C:\Users\koji\Desktop\学校\授業\INN570 Internationalization Software\Assingment2\TMTranslatorConsole\TMTranslatorConsole\obj\Debug\TMTranslatorConsole.csprojResolveAssemblyReference.cache
+C:\Users\koji\Desktop\学校\授業\INN570 Internationalization Software\Assingment2\TMXTranslatorConsole\TMTranslatorConsole\bin\Debug\TMTranslatorConsole.exe.config
+C:\Users\koji\Desktop\学校\授業\INN570 Internationalization Software\Assingment2\TMXTranslatorConsole\TMTranslatorConsole\obj\Debug\TMTranslatorConsole.exe
+C:\Users\koji\Desktop\学校\授業\INN570 Internationalization Software\Assingment2\TMXTranslatorConsole\TMTranslatorConsole\obj\Debug\TMTranslatorConsole.pdb
